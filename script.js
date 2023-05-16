@@ -1,4 +1,4 @@
-import "./styles.css";
+// import "./styles.css";
 
 var ball = document.getElementById("ball");
 var rod1 = document.getElementById("rod1");
